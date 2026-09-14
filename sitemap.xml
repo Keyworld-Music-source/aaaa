@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/level-1-foundation.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/level-2-intermediate.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/level-3-advanced.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/admissions.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/faq.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/piano-keyboard.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/guitar.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/violin.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/saxophone.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/trumpet.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/drum-set.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/talking-drum.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/courses/voice-training.html</loc></url>
+</urlset>
